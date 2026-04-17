@@ -1,4 +1,4 @@
-# AAut_project
+# machine_learning_project
 
 **Machine Learning models developed to complete tasks of the Machine Learning (ML) subject lectured at Instituto Superior Técnico (IST).**
 
